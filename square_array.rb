@@ -6,5 +6,3 @@ end
 
   arr = [1,2,3]
   square_array(arr)
-
-puts new_array
