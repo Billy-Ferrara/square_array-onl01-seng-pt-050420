@@ -1,3 +1,9 @@
 def square_array(array)
-  # your code here
+  numbers = [1,2,3]
+  new_numbers = []
+
+  numbers.each do |* 2(nums)|
+  end 
+  
+  
 end
